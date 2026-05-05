@@ -3,4 +3,18 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Angel Wan
 
-[expose](expose.html)
+## Links:
+
+[expose]()
+
+[explore]()
+
+## Questions:
+
+1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
+
+No, I would not. This is because the message feature has a lot of little moving pieces (UI, backend, database, networking, etc) so it's better suited for full integration testing rather than unit tests, which are specifically for testing the functionality of small components.
+
+1) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
+
+Yes, I think this is more suitable for a unit test, as it's a simple check for a small, isolated function that can be run quickly and isn't too complex. 
