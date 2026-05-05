@@ -5,9 +5,9 @@ Angel Wan
 
 ## Links:
 
-[expose]()
+[expose](https://19tangerines.github.io/Lab5_Starter/expose.html)
 
-[explore]()
+[explore](https://19tangerines.github.io/Lab5_Starter/explore.html)
 
 ## Questions:
 
